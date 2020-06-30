@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>heapsort-java-demo-2</artifactId>
+	<artifactId>heapsort-java-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>heapsort-java-demo-2</name>
+	<name>heapsort-java-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
