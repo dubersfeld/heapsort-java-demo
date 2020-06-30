@@ -16,6 +16,9 @@ Sort step
 Sort completed
 ![alt text](images/sortCompleted.png "Sort completed")
 
+For a video demo follow this link:
+
+https://youtu.be/iy3sO8b4u8Y 
 
 
-Dominique Ubersfeld
+Dominique Ubersfeld, Cachan
